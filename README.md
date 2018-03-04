@@ -9,6 +9,8 @@ radio and communications users.
 
 ### Hamlib Project Links
 
+[Hamlib 3.2~rc1](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc1)
+
 [Hamlib 3.1](https://github.com/Hamlib/Hamlib/releases/tag/3.1)
 
 [Hamlib 3.0.1](https://github.com/Hamlib/Hamlib/releases/tag/3.0.1)
