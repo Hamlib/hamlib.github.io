@@ -29,8 +29,8 @@ radio and communications users.
 
 #### Mailing list
 
-[Subscribe](https://sourceforge.net/projects/hamlib/lists/hamlib-developer)
-[GMANE list archive](http://dir.gmane.org/gmane.linux.hams.hamlib.devel)
+- [Subscribe](https://sourceforge.net/projects/hamlib/lists/hamlib-developer)
+- [GMANE list archive](http://dir.gmane.org/gmane.linux.hams.hamlib.devel)
 
 ### Contributing
 
