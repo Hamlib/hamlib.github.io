@@ -9,8 +9,9 @@ radio and communications users.
 
 ### Hamlib Project Links
 
-#### Release preview
+#### Release previews
 
+[Hamlib 3.2~rc2](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc2)
 [Hamlib 3.2~rc1](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc1)
 
 #### Stable releases
@@ -47,7 +48,7 @@ your cloned repository and then issuing a [pull
 request](https://help.github.com/search/?utf8=%E2%9C%93&q=pull+request).
 
 Not to worry, the GitHub site (which hosts this page and repository) has plenty
-of help keep all of this straight.
+of help available to keep all of this straight.
 
 Another way to submit patches is to post them to the mailing list where Nate,
 N0NB, will likely apply them and push them to the main repository.  The
@@ -58,4 +59,4 @@ additional information.
 Contributions to Hamlib come from all over the world, it seems.  It is this
 widespread interest that keeps the project moving forward.  Don't be shy if
 all of this seems a bit overwhelming.  All of us were beginners at some point
-as well.
+as well, so dig in and have fun!
