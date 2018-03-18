@@ -11,8 +11,8 @@ radio and communications users.
 
 #### Release previews
 
-[Hamlib 3.2~rc2](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc2)
-[Hamlib 3.2~rc1](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc1)
+- [Hamlib 3.2~rc2](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc2)
+- [Hamlib 3.2~rc1](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc1)
 
 #### Stable releases
 
