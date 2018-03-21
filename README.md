@@ -9,6 +9,9 @@ radio and communications users.
 
 ### Hamlib Project Links
 
+- [GitHub Hamlib repository](https://github.com/Hamlib/Hamlib)
+- [SourceForge Hamlib project page](https://sourceforge.net/projects/hamlib/)
+
 #### Release previews
 
 - [Hamlib 3.2~rc2](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc2)
@@ -20,13 +23,17 @@ radio and communications users.
 - [Hamlib 3.0.1](https://github.com/Hamlib/Hamlib/releases/tag/3.0.1)
 - [Hamlib 3.0](https://github.com/Hamlib/Hamlib/releases/tag/3.0)
 
-#### Daily snapshot
+#### Daily snapshots
 
-[Daily master branch snapshots](http://n0nb.users.sourceforge.net/)
+These snapshots are generated daily from the master (main development) branch.
+Included are a source tarball and binary archives for Windows 32 and 64 bit
+versions.
+
+- [Daily master branch snapshots](http://n0nb.users.sourceforge.net/)
 
 #### Project wiki
 
-[Hamlib wiki](https://github.com/Hamlib/Hamlib/wiki)
+- [Hamlib wiki](https://github.com/Hamlib/Hamlib/wiki)
 
 #### Mailing list
 
