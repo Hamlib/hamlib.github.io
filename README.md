@@ -12,13 +12,9 @@ radio and communications users.
 - [GitHub Hamlib repository](https://github.com/Hamlib/Hamlib)
 - [SourceForge Hamlib project page](https://sourceforge.net/projects/hamlib/)
 
-#### Release previews
-
-- [Hamlib 3.2~rc2](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc2)
-- [Hamlib 3.2~rc1](https://github.com/Hamlib/Hamlib/releases/tag/3.2rc1)
-
 #### Stable releases
 
+- [Hamlib 3.2](https://github.com/Hamlib/Hamlib/releases/tag/3.2)
 - [Hamlib 3.1](https://github.com/Hamlib/Hamlib/releases/tag/3.1)
 - [Hamlib 3.0.1](https://github.com/Hamlib/Hamlib/releases/tag/3.0.1)
 - [Hamlib 3.0](https://github.com/Hamlib/Hamlib/releases/tag/3.0)
