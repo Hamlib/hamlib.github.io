@@ -37,6 +37,11 @@ versions.
 - [Subscribe](https://sourceforge.net/projects/hamlib/lists/hamlib-developer)
 - [GMANE list archive](http://dir.gmane.org/gmane.linux.hams.hamlib.devel)
 
+**Note:** The GMANE Web interface is currently offline.  The GMANE NNTP server
+is operational and recent list mail can be seen via the news.gmane.org server
+as the gmane.linux.hams.hamlib.devel group.  At this time the mail gateway from
+the GMANE news server to the mailing list doesn't seem to be operational.
+
 ### Contributing
 
 Hamlib has a very organic development model.  Contributions
