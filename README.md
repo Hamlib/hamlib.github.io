@@ -35,12 +35,16 @@ versions.
 #### Mailing list
 
 - [Subscribe](https://sourceforge.net/projects/hamlib/lists/hamlib-developer)
-- [GMANE list archive](http://dir.gmane.org/gmane.linux.hams.hamlib.devel)
+- [GMANE list archive via NNTP](nntp://news.gmane.io/gmane.linux.hams.hamlib.devel)
 
-**Note:** The GMANE Web interface is currently offline.  The GMANE NNTP server
-is operational and recent list mail can be seen via the news.gmane.org server
-as the gmane.linux.hams.hamlib.devel group.  At this time the mail gateway from
-the GMANE news server to the mailing list doesn't seem to be operational.
+**Note:** The prior GMANE Web interface is likely permanently offline.  A new
+GMANE NNTP server is operational and recent list mail can be seen via the
+news.gmane.io server (note the new host name which became active on 15 Jan
+2020) as the gmane.linux.hams.hamlib.devel group.  At this time the mail
+gateway from the GMANE news server to the mailing list doesn't seem to be
+operational.  See [news.gmane.org is now
+news.gmane.io](https://lars.ingebrigtsen.no/2020/01/15/news-gmane-org-is-now-news-gmane-io/)
+for more information on the recent change.
 
 ### Contributing
 
