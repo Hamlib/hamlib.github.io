@@ -12,14 +12,14 @@ radio and communications users.
 - [GitHub Hamlib repository](https://github.com/Hamlib/Hamlib)
 - [SourceForge Hamlib project page](https://sourceforge.net/projects/hamlib/)
 
-#### Stable releases
+#### Current stable release
 
 - [Hamlib 4.2](https://github.com/Hamlib/Hamlib/releases/tag/4.2)
-- [Hamlib 4.1](https://github.com/Hamlib/Hamlib/releases/tag/4.1)
-- [Hamlib 4.0](https://github.com/Hamlib/Hamlib/releases/tag/4.0)
 
 #### Old stable releases
 
+- [Hamlib 4.1](https://github.com/Hamlib/Hamlib/releases/tag/4.1)
+- [Hamlib 4.0](https://github.com/Hamlib/Hamlib/releases/tag/4.0)
 - [Hamlib 3.3](https://github.com/Hamlib/Hamlib/releases/tag/3.3)
 - [Hamlib 3.2](https://github.com/Hamlib/Hamlib/releases/tag/3.2)
 - [Hamlib 3.1](https://github.com/Hamlib/Hamlib/releases/tag/3.1)
@@ -34,9 +34,10 @@ versions.
 
 - [Daily master branch snapshots](http://n0nb.users.sourceforge.net/)
 
-#### Project wiki
+#### Project wiki and documentation
 
 - [Hamlib wiki](https://github.com/Hamlib/Hamlib/wiki)
+- [Hamlib documentation](https://github.com/Hamlib/Hamlib/wiki/Documentation)
 
 #### Mailing list
 
