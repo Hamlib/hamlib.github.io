@@ -11,6 +11,7 @@ radio and communications users.
 
 - [GitHub Hamlib repository](https://github.com/Hamlib/Hamlib)
 - [SourceForge Hamlib project page](https://sourceforge.net/projects/hamlib/)
+- IRC channel: #hamlib on irc.oftc.net.
 
 #### Current stable release
 
