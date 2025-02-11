@@ -15,10 +15,11 @@ radio and communications users.
 
 #### Current stable release
 
-- [Hamlib 4.6.1](https://github.com/Hamlib/Hamlib/releases/tag/4.6.1)
+- [Hamlib 4.6.2](https://github.com/Hamlib/Hamlib/releases/tag/4.6.2)
 
 #### Old stable releases
 
+- [Hamlib 4.6.1](https://github.com/Hamlib/Hamlib/releases/tag/4.6.1)
 - [Hamlib 4.6](https://github.com/Hamlib/Hamlib/releases/tag/4.6)
 - [Hamlib 4.5.5](https://github.com/Hamlib/Hamlib/releases/tag/4.5.5)
 - [Hamlib 4.5.4](https://github.com/Hamlib/Hamlib/releases/tag/4.5.4)
@@ -26,17 +27,6 @@ radio and communications users.
 - [Hamlib 4.5.2](https://github.com/Hamlib/Hamlib/releases/tag/4.5.2)
 - [Hamlib 4.5.1](https://github.com/Hamlib/Hamlib/releases/tag/4.5.1)
 - [Hamlib 4.5](https://github.com/Hamlib/Hamlib/releases/tag/4.5)
-- [Hamlib 4.4](https://github.com/Hamlib/Hamlib/releases/tag/4.4)
-- [Hamlib 4.3.1](https://github.com/Hamlib/Hamlib/releases/tag/4.3.1)
-- [Hamlib 4.3](https://github.com/Hamlib/Hamlib/releases/tag/4.3)
-- [Hamlib 4.2](https://github.com/Hamlib/Hamlib/releases/tag/4.2)
-- [Hamlib 4.1](https://github.com/Hamlib/Hamlib/releases/tag/4.1)
-- [Hamlib 4.0](https://github.com/Hamlib/Hamlib/releases/tag/4.0)
-- [Hamlib 3.3](https://github.com/Hamlib/Hamlib/releases/tag/3.3)
-- [Hamlib 3.2](https://github.com/Hamlib/Hamlib/releases/tag/3.2)
-- [Hamlib 3.1](https://github.com/Hamlib/Hamlib/releases/tag/3.1)
-- [Hamlib 3.0.1](https://github.com/Hamlib/Hamlib/releases/tag/3.0.1)
-- [Hamlib 3.0](https://github.com/Hamlib/Hamlib/releases/tag/3.0)
 
 #### Daily snapshots
 
