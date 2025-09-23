@@ -35,7 +35,7 @@ These snapshots are generated daily from the master (main development) branch.
 Included are a source tarball and binary archives for Windows 32 and 64 bit
 versions.
 
-- [Daily master branch snapshots](http://n0nb.users.sourceforge.net/)
+- [Daily master branch snapshots](https://hamlib.sourceforge.net/snapshots/)
 
 #### Project wiki and documentation
 
