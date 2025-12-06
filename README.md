@@ -33,11 +33,12 @@ radio and communications users.
 
 #### Daily snapshots
 
-These snapshots are generated daily from the master (main development) branch.
-Included are a source tarball and binary archives for Windows 32 and 64 bit
-versions.
+These snapshots are generated daily from the master (main development) branch
+and the stable Hamlib-4.7 branch.  Included are a source tarball and binary
+archives for Windows 32 and 64 bit versions generated from both branches.
 
 - [Daily master branch snapshots](https://hamlib.sourceforge.net/snapshots/)
+- [Daily Hamlib-4.7 branch snapshots](https://hamlib.sourceforge.net/snapshots-4.7/)
 
 #### Project wiki and documentation
 
