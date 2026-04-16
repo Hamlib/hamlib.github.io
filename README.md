@@ -15,10 +15,11 @@ radio and communications users.
 
 #### Current stable release
 
-- [Hamlib 4.7.0](https://github.com/Hamlib/Hamlib/releases/tag/4.7.0)
+- [Hamlib 4.7.1](https://github.com/Hamlib/Hamlib/releases/tag/4.7.1)
 
 #### Old stable releases
 
+- [Hamlib 4.7.0](https://github.com/Hamlib/Hamlib/releases/tag/4.7.0)
 - [Hamlib 4.6.5](https://github.com/Hamlib/Hamlib/releases/tag/4.6.5)
 - [Hamlib 4.6.4](https://github.com/Hamlib/Hamlib/releases/tag/4.6.4)
 - [Hamlib 4.6.3](https://github.com/Hamlib/Hamlib/releases/tag/4.6.3)
